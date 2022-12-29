@@ -1,0 +1,14 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "person.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img.png": {
+    "mime": "image/png"
+  }
+}

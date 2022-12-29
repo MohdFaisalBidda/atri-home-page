@@ -1,0 +1,46 @@
+.p-Home.Flex5 {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+flex-wrap: nowrap;
+align-content: stretch;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.p-Home.Flex1 {
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding-left: ;
+padding-right: ;
+width: 100%;
+row-gap: ;
+column-gap: ;
+}
+.p-Home.Flex3 {
+display: flex;
+}
+.p-Home.Flex4 {
+display: flex;
+}
+.p-Home.TextBox4 {
+;
+}
+.p-Home.TextBox5 {
+;
+}
+.p-Home.TextBox6 {
+;
+}
+.p-Home.TextBox7 {
+;
+}
+.p-Home.TextBox9 {
+;
+}
+.p-Home.Image8 {
+;
+}
+.p-Home.Image2 {
+;
+}
